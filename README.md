@@ -1,4 +1,4 @@
-# netflix_app
+# Netflix UI Flutter
 
 A new Flutter project.
 
