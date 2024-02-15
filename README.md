@@ -6,7 +6,12 @@ This project is a clone of the Netflix user interface developed using the Flutte
 
 ## 📷Screenshots
 
-![Screenshot_2024-02-15-17-01-09-015_com example netflix_app](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/a082b659-d2b5-4587-b080-e083853fabe7)
+![netflix_ui_screenshots1](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/9abecc94-6401-4077-a444-9bf1faad8a5c)
+![netflix_ui_screenshots2](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/2c5421a7-5d47-4340-9666-30ca9c952b58)
+
+
+
+
 
 ## Process
 First I am Developed Major Screens of Netflix app Using Flutter framework and Dart Programming.
