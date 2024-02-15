@@ -20,7 +20,8 @@ I utilized the TMDB database API to seamlessly integrate  functionality into my 
 Flutter's BLoC (Business Logic Component) state management pattern is utilized in this project for efficient handling of application states. BLoC facilitates separation of concerns by isolating business logic from UI components, thereby promoting scalability and maintainability. With BLoC, data streams are managed through streams and sinks, enabling seamless integration of asynchronous operations.
 
 ## 📷Screenshots
-![netflix_home_ui](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/8842fb8e-d06d-48be-9eb4-5a747efd6ea3)
+![netflix_home_ui](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/8ac7fafc-4687-4704-879b-0faf95bed5d0)
+
 
 
 
