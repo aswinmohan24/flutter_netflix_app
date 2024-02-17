@@ -25,7 +25,7 @@ Flutter's BLoC (Business Logic Component) state management pattern is utilized i
 
 
 
-![money_manager_screen1](https://github.com/aswinmohan24/flutter_netflix_app/assets/156991420/0432cf6f-dd43-4994-bfd2-3331d245cd3b)
+
 
 
 
